@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\bin\Debug\net6.0\Lesson5_Task36.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\bin\Debug\net6.0\Lesson5_Task36.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\bin\Debug\net6.0\Lesson5_Task36.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\bin\Debug\net6.0\Lesson5_Task36.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\bin\Debug\net6.0\Lesson5_Task36.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\refint\Lesson5_Task36.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\Lesson5_Task36.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_less5\Lesson5_Task36\obj\Debug\net6.0\ref\Lesson5_Task36.dll
